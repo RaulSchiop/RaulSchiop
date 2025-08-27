@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning React Native<br>💬 Ask me about React ,C</h3>
+<h3 align="left">🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning React Native<br>💬 Ask me about Java, React and more</h3>
 
 ###
 
